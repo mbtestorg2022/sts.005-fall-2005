@@ -6,6 +6,7 @@ description: 'This resource provides information about population growth, causes
   reversible?'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-005-disease-and-society-in-america-fall-2005/84f442c7fd1d3566a3653c076e28ae60_lec_8.pdf
 file_type: application/pdf
+parent_uid: 4558507c-ca23-5780-cf2a-fba3529755b1
 resourcetype: Document
 title: lec_8.pdf
 uid: 84f442c7-fd1d-3566-a365-3c076e28ae60

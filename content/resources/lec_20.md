@@ -6,6 +6,7 @@ description: 'This resource provides information about miasmatism, epidemics, an
   germ theory and culture: the gospel of germs.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-005-disease-and-society-in-america-fall-2005/e54dde841549bd78bfe6acb58abc370b_lec_20.pdf
 file_type: application/pdf
+parent_uid: 4558507c-ca23-5780-cf2a-fba3529755b1
 resourcetype: Document
 title: lec_20.pdf
 uid: e54dde84-1549-bd78-bfe6-acb58abc370b

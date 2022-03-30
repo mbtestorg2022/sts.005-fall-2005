@@ -5,6 +5,7 @@ description: 'This resource provides information about bubonic plague, Honolulu 
   endemic in western US, parallels to plague.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-005-disease-and-society-in-america-fall-2005/42ede8625ef1463bc56ba98316ff224e_lec_21.pdf
 file_type: application/pdf
+parent_uid: 4558507c-ca23-5780-cf2a-fba3529755b1
 resourcetype: Document
 title: lec_21.pdf
 uid: 42ede862-5ef1-463b-c56b-a98316ff224e

@@ -5,6 +5,7 @@ description: This resource provides information about prevalence of technology, 
   Technology in the 20th century, impact of technology, transformation of hospitals.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-005-disease-and-society-in-america-fall-2005/d66fc17af6c26f7faeeb26b57db63401_lec_22.pdf
 file_type: application/pdf
+parent_uid: 4558507c-ca23-5780-cf2a-fba3529755b1
 resourcetype: Document
 title: lec_22.pdf
 uid: d66fc17a-f6c2-6f7f-aeeb-26b57db63401

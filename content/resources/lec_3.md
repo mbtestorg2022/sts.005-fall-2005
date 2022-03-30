@@ -5,6 +5,7 @@ description: 'This resource provides information about disease before Columbus, 
   and social explanations.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-005-disease-and-society-in-america-fall-2005/8163e7537653bb295888f868a9915c22_lec_3.pdf
 file_type: application/pdf
+parent_uid: 4558507c-ca23-5780-cf2a-fba3529755b1
 resourcetype: Document
 title: lec_3.pdf
 uid: 8163e753-7653-bb29-5888-f868a9915c22

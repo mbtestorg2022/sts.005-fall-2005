@@ -5,6 +5,7 @@ description: 'This resource provides information about disease and medicine in 1
   our goal: understand the changing world of disease and medicine.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-005-disease-and-society-in-america-fall-2005/01f1efef3bb3032afd20eb949596234a_intro_dis_med.pdf
 file_type: application/pdf
+parent_uid: 4558507c-ca23-5780-cf2a-fba3529755b1
 resourcetype: Document
 title: intro_dis_med.pdf
 uid: 01f1efef-3bb3-032a-fd20-eb949596234a
